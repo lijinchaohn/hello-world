@@ -1,2 +1,4 @@
 # hello-world
-The first repository, just for learning
+The first repository, just for learning!
+
+I am an Android developer!
